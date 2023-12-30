@@ -10,7 +10,8 @@
 Before you begin, ensure you have met the following requirements:
 - Java Development Kit (JDK 17)
 - Eclipse IDE or any other Java IDE
-- 
+
+
 ## Installation
 
 1. Clone the repository:
